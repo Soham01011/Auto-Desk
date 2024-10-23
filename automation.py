@@ -255,7 +255,7 @@ class AutomationBot:
         
         self.root.mainloop()
         
-#Apple banana chikuu durain
+#Apple banana chikuu 
 
         
 AutomationBot()
